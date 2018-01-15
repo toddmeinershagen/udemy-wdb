@@ -1,0 +1,12 @@
+li {
+	border: 1px solid black;
+}
+
+#special {
+	color: blue;
+	font: bold;
+}
+
+.completed {
+	text-decoration: line-through;
+}
